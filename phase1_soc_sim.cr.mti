@@ -1,0 +1,64 @@
+C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/i2c_wrapper.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/i2c_wrapper.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module i2c_wrapper
+
+Top level modules:
+	i2c_wrapper
+
+} {} {}} C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/rv32i_core.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/rv32i_core.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module rv32i_core
+
+Top level modules:
+	rv32i_core
+
+} {} {}} C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/alu.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/alu.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/axi_to_ahb_bridge.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/axi_to_ahb_bridge.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module axi_to_ahb_bridge
+
+Top level modules:
+	axi_to_ahb_bridge
+
+} {} {}} C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/address_decoder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/address_decoder.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module address_decoder
+
+Top level modules:
+	address_decoder
+
+} {} {}} C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sim_1/new/tb_phase1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sim_1/new/tb_phase1.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_phase1
+
+Top level modules:
+	tb_phase1
+
+} {} {}} C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/noc_port.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/noc_port.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module noc_port
+
+Top level modules:
+	noc_port
+
+} {} {}} C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/register_file.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/register_file.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/uart_wrapper.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/admin/Desktop/rv32i_soc_project/rv32i_soc/rv32i_soc.srcs/sources_1/new/uart_wrapper.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module uart_wrapper
+
+Top level modules:
+	uart_wrapper
+
+} {} {}}
